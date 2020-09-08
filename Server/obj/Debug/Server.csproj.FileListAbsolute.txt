@@ -1,0 +1,8 @@
+C:\Users\calis\source\repos\Covid-19\Server\bin\Debug\Server.exe.config
+C:\Users\calis\source\repos\Covid-19\Server\bin\Debug\Server.exe
+C:\Users\calis\source\repos\Covid-19\Server\bin\Debug\Server.pdb
+C:\Users\calis\source\repos\Covid-19\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\calis\source\repos\Covid-19\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\calis\source\repos\Covid-19\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\calis\source\repos\Covid-19\Server\obj\Debug\Server.exe
+C:\Users\calis\source\repos\Covid-19\Server\obj\Debug\Server.pdb
