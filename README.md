@@ -8,7 +8,7 @@ Her gün yayınlanan Türkiye Genel Covid-19 Tablosu'nun C# ile tasarlanmış kl
   - Observer Design Pattern kullanılmıştır.
   
 >Server UML
->!(UMLs/server.jpg)
+>![](UMLs/server.jpg)
 
 ### Client
 
@@ -16,4 +16,4 @@ Her gün yayınlanan Türkiye Genel Covid-19 Tablosu'nun C# ile tasarlanmış kl
   - Singleton Design Pattern kullanılmıştır.
   
 >Client UML
->!(UMLs/client.jpg)
+>![](UMLs/client.jpg)
