@@ -11,3 +11,5 @@ Her gün yayınlanan Türkiye Genel Covid-19 Tablosu'nun C# ile tasarlanmış kl
 
   - Server programına TCP Soketleri ile bağlanılarak anlık verileri dinleyebilmektedir. Güncellenen veriler dosya olarak kaydedilmektedir.  
   - Singleton Design Pattern kullanılmıştır.
+  
+![Image of Yaktocat](UMLs/client.jpg)
